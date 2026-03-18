@@ -6,8 +6,8 @@
 
 - 🎓 B.Tech Computer Science @ NSUT Delhi (2026)
 - 💼 Previously SDE Intern @ BSES Rajdhani Power Limited
-- 🧠 Interested in full-stack development, system design, and applied machine learning
-- 
+- 🧠 Interested in full-stack development and applied machine learning
+
 ---
 
 ## 🔨 What am I currently working on?
