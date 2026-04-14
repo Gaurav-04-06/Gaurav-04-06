@@ -37,8 +37,8 @@
 ## 📬 How to reach me?
 
 - 📧 Email: **gauravkohli204@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/gauravkohli](https://linkedin.com/in/gauravkohli)
-- 🐙 GitHub: [github.com/gauravkohli](https://github.com/gauravkohli)
+- 💼 LinkedIn: [linkedin.com/in/gauravkohli](https://www.linkedin.com/in/gaurav-kohli-a59760318/)
+- 🐙 GitHub: [github.com/gauravkohli](https://github.com/Gaurav-04-06)
 
 ---
 
